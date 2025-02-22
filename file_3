@@ -1,0 +1,9 @@
+so this is really nice
+like you can create repos and files inside of it but
+i want to know how to interact with this github using the git program enabled in my os
+like for local system i need to install git in my laptop. in this ms os 
+but if want to access my github by installing git in my ubuntu instance server
+i need to make connection off course like how does the git program knows what is your account in github and only then you would be able to access github after making the connection
+and here comes http or ssh connection
+which helps our git program to find our id on github
+okay let's see let's go then...
